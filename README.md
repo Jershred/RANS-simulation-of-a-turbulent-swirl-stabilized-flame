@@ -1,10 +1,10 @@
-# Shallow water wave modeling
+# RANS simulation of a turbulent swirl stabilized flame
 ## Context
 Project carried out for the course of Combustion for Propulsion on Fluent at Ecole Centrale Lyon (France).
 
 | Made by | Referent teacher | 
 | ------------- |:-------------:|
-| Jérémy Archier | Mr. Bastien Di Pierro |
+| Jérémy Archier | Mr. Alexis Giauque |
 
 [Subject](Report/Combustion_BE_Numerics_ressource_AG.pdf)
 
@@ -13,8 +13,4 @@ Project carried out for the course of Combustion for Propulsion on Fluent at Eco
 
 ## Project
 ### Introduction
-The Fourier Spectral method is a method that can be used to solve partial differential equations, such as the 1D and 2D Korteweg–De Vries equation, which is a mathematical model that describes the behavior of shallow water waves. This method utilizes the properties of the Fourier transform to represent functions in the spatial domain as a series of complex exponentials in the frequency domain.
-
-By applying the Fourier Spectral method, one can numerically approximate the solution of the Korteweg–De Vries equation. Additionally, the solution obtained by the Fourier Spectral method is then integrated over time using a specific method called "AB3" which stands for "Adams-Bashforth, 3rd order" numerical integration.
-
-The implementation of the Fourier Spectral method and the time integration AB3 can be done using the Python programming language
+The initial practical session was devoted to conducting a numerical investigation and using computational fluid dynamics (CFD) to simulate the injector of the combustion chamber of the next-generation SNECFRAN engine. The session began by providing participants with a numerical model of the combustion chamber and its corresponding mesh, as well as the model parameters such as velocities, turbulence levels, and temperatures. The primary objective of this simulation was to detect the stationary characteristics of the flame, based on the topology, geometry, and model parameters selected. To achieve this, the C-equation model for premixed combustion was employed to evaluate the topology of a turbulent methane flame as a function of the inlet swirl number. Furthermore, we examined the impact of stretch on the flame's stability and considered potential improvements for the CFD model and simulation.
