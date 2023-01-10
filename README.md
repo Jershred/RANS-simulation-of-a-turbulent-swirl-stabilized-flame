@@ -6,9 +6,9 @@ Project carried out for the course of Combustion for Propulsion on Fluent at Eco
 | ------------- |:-------------:|
 | Jérémy Archier | Mr. Alexis Giauque |
 
-[Subject](RANS-simulation-of-a-turbulent-swirl-stabilized-flame/Report/Report_CombustionForPropulsion_PracticalSession1_Archier_Bourakkadi.pdf)
+[Subject](RANS-simulation-of-a-turbulent-swirl-stabilized-flame/Report/Combustion_BE_Numerics_ressource_AG.pdf)
 
-[Report](Report/Rapport_MNM_2.pdf) (in French)
+[Report](RANS-simulation-of-a-turbulent-swirl-stabilized-flame/Report/Report_CombustionForPropulsion_PracticalSession1_Archier_Bourakkadi.pdf)
 
 
 ## Project
