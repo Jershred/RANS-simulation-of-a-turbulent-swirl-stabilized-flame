@@ -4,7 +4,7 @@ Project carried out for the course of Combustion for Propulsion on Fluent at Eco
 
 | Made by | Referent teacher | 
 | ------------- |:-------------:|
-| Jérémy Archier | Mr. Alexis Giauque |
+| Jérémy Archier & Nezha Bourakkadi | Mr. Alexis Giauque |
 
 [Subject](Report/Combustion_BE_Numerics_ressource_AG.pdf)
 
